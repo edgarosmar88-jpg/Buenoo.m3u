@@ -1965,3 +1965,69 @@ https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/pl
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Canela TV",Thema Vive Kanal Drama
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",010 - ESPN
+http://181.118.153.15:8000/play/nk34/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",011 - ESPN2
+http://181.118.153.15:8000/play/aj01/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",012 - ESPN 3
+http://181.118.153.15:8000/play/lt41/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",013 - ESPN4
+http://181.118.153.15:8000/play/rk19/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",014 - ESPN 5
+http://181.118.153.15:8000/play/en28/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",015 - ESPN 6
+http://181.118.153.15:8000/play/ns99/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",016 - ESPN 7
+http://181.118.153.15:8000/play/rq26/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",24-ESPN 2 HD
+http://8.243.126.131:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",32-ESPN PREMIUN HD
+http://8.243.126.131:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",39-DIRECTV DEPORTE
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",43-ESPN6 HD
+http://8.243.126.131:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",48-ESPN3 HD
+http://8.243.126.131:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",55-ESPN1
+http://8.243.126.131:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",81-ESPN 5 HD
+http://8.243.126.131:8000/play/a0jz/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CANAL 103 ESPN 5
+http://45.5.118.152:8000/play/a092/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CANAL 108 ESPN 3
+http://45.5.118.152:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CANAL 84 TIGO SPORT
+http://45.5.118.152:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CANAL+.Sport.4.HD.sk
+http://45.5.118.152:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CLAOR SPORT 2
+http://181.78.64.21:1010/play/a0qk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORT 1
+http://181.78.64.21:1010/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",CLAROSPORTS..uy
+http://181.118.153.151:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 1 HD
+http://8.243.126.131:8000/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 2 SD
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sports 2 SD
+http://8.243.126.131:8000/play/a0js/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",D SPORTS 65
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIERCTV SPORT
+http://181.78.64.21:1010/play/a0ql/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",DIRECTV
+http://181.78.8.199:8000/play/a0io/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://38.211.145.109:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://38.211.145.109:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://181.118.153.151:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://181.78.79.131:8000/play/a0s7
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://45.5.118.152:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN - MEXICO
+http://8.243.126.131:8000/play/a0gd/index.m3u8
