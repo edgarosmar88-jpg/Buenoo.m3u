@@ -2031,3 +2031,81 @@ http://181.78.79.131:8000/play/a0s7
 http://45.5.118.152:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN - MEXICO
 http://8.243.126.131:8000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Espn Premium
+http://181.78.64.21:1010/play/a0of/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Espn Premium
+http://181.78.79.131:8000/play/a0r2
+#EXTINF:-1 group-title="DEPORTES",Espn Premium
+http://190.60.52.28:5001/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",FMH REWIND
+http://38.211.145.109:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Golf.Channel.HD.pl
+http://8.243.126.131:8000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Golf.Channel.my
+http://8.243.126.131:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Golf.Channel.my
+http://148.222.230.197:8000/play/a0pi/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Golf.Channel.my
+http://45.173.12.70:8000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Latin America Sport
+http://8.243.126.131:8000/play/a0jv/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SPORT1.de
+http://190.61.41.181:8000/play/a0r5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SPORT1.de
+http://190.61.41.181:8000/play/a0r3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SPORTS.TV.tr
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:-1 group-title="DEPORTES",SPORTS.TV.tr
+http://8.243.126.131:8000/play/a0nr/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SPORTS.TV.tr
+http://45.173.12.70:8000/play/a0ej/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Tigo Sports HD
+http://8.243.126.131:8000/play/a0ih/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",TyC
+http://38.211.145.109:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Via X Esports
+http://190.60.52.28:5001/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Via X Esports
+http://45.173.12.70:8000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",WIN NORMAL
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",WIN SPORT + HD
+http://190.60.52.28:5001/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",WIN SPORT MAS  LOCAL
+http://181.78.8.199:8000/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",WINSPORT
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",WINTRANSCODIFICADO
+http://181.118.150.27:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win
+http://181.78.64.21:1010/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win
+http://38.211.145.109:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win
+http://181.118.153.151:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win
+http://190.60.52.28:5001/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://181.78.64.21:1010/play/a0qg/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://181.118.153.15:8000/play/op88/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://181.118.153.151:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://181.118.150.27:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://181.78.79.131:8000/play/a0n1
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://190.60.52.28:5001/play/a0hl/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://190.61.41.181:8000/play/a0qs/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://190.61.41.181:8000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Win.Sports.co
+http://8.243.126.131:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",WinSport + HD
+http://45.173.12.70:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",eSports1.de
+http://148.222.230.201:8000/play/a0pk/index.m3u8
